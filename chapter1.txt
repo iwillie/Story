@@ -1,1 +1,1 @@
-this a course on git and github
+this a course on git and github, of the space world
